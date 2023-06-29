@@ -1,0 +1,24 @@
+{
+  "name": "clean-webpack-hd-plugin",
+  "version": "1.0.0",
+  "description": "a simple webpack plugin to clean up your build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hd-sh/clean-webpack-hd-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "clean",
+    "clean-webpack-plugin"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hd-sh/clean-webpack-hd-plugin/issues"
+  },
+  "homepage": "https://github.com/hd-sh/clean-webpack-hd-plugin#readme"
+}
